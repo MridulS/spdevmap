@@ -1,0 +1,26 @@
+<html>
+      <head>
+           <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+       integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+       crossorigin=""/>
+            <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+       integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+       crossorigin=""></script>
+              <style>
+                  body { margin:0; padding:0; }
+                  #map { position: absolute; top:0; bottom:0; right:0; left:0; }
+              </style>
+      </head>
+      <body>
+          <div id="map"></div>
+          <script>
+              var map = L.map('map').setView([0, 0], 2);
+              L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }).addTo(map);
+             L.marker([88, 11]).addTo(map).bindPopup('<a href="https://github.com" target="_blank">User 1<a>');
+L.marker([11, 1]).addTo(map).bindPopup('<a href="https://github.com" target="_blank">User 2<a>');
+          </script>
+      </body>
+  </html>
