@@ -10,3 +10,8 @@ url = "https://github.com"
 lat = 11
 lang = 1
 
+[user3]
+display_name = "User 3"
+url = "https://github.com"
+lat = 1
+lang = 1
