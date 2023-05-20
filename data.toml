@@ -1,0 +1,12 @@
+[user1]
+display_name = "User 1"
+url = "https://github.com"
+lat = 88
+lang = 11
+
+[user2]
+display_name = "User 2"
+url = "https://github.com"
+lat = 11
+lang = 1
+
