@@ -1,8 +1,8 @@
-[user1]
-display_name = "User 1"
-url = "https://github.com"
-lat = 88
-long = 11
+[mriduls]
+display_name = "Mridul Seth"
+url = "https://github.com/mriduls"
+lat = 25.20
+long = 55.27
 
 [user3]
 display_name = "User 3"
