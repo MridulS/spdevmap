@@ -7,6 +7,5 @@ Add yourself by adding your data to `data.toml` and sending a PR
 display_name = "Name you want to display"
 url = "Link to github or any other URL you would like"
 lat = 0
-lang = 0
-
+long = 0
 ```
