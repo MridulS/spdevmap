@@ -9,3 +9,9 @@ display_name = "Stéfan van der Walt"
 url = "https://github.com/stefanv"
 lat = 39.3280
 long = -120.1833
+
+[jjerphan]
+display_name = "Julien Jerphanion"
+url = "https://github.com/jjerphan"
+lat = 48.847759
+long = 2.439497
