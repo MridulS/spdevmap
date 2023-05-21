@@ -2,10 +2,16 @@
 display_name = "User 1"
 url = "https://github.com"
 lat = 88
-lang = 11
+long = 11
 
 [user3]
 display_name = "User 3"
 url = "https://github.com"
 lat = 1
-lang = 1
+long = 1
+
+[stefanv]
+display_name = "Stéfan van der Walt"
+url = "https://github.com/stefanv"
+lat = 39.3280
+long = -120.1833

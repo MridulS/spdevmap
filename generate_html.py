@@ -7,7 +7,7 @@ with open("data.toml", "rb") as f:
 
 def marker_generator(data):
     for user in data:
-        yield f"""L.marker([{user['lat']}, {user['lang']}]).addTo(map).bindPopup('<a href="{user['url']}" target="_blank">{user['display_name']}<a>');"""
+        yield f"""L.marker([{user['lat']}, {user['long']}]).addTo(map).bindPopup('<a href="{user['url']}" target="_blank">{user['display_name']}<a>');"""
 
 
 html_marker = "\n".join(marker_generator(d for d in data.values()))
