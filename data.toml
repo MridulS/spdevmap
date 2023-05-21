@@ -15,3 +15,9 @@ display_name = "Julien Jerphanion"
 url = "https://github.com/jjerphan"
 lat = 48.847759
 long = 2.439497
+
+[rossbar]
+display_name = "Ross Barnowski"
+url = "https://github.com/rossbar"
+lat = 34.138217
+long = -118.125516
