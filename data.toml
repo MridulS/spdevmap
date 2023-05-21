@@ -4,12 +4,6 @@ url = "https://github.com/mriduls"
 lat = 25.20
 long = 55.27
 
-[user3]
-display_name = "User 3"
-url = "https://github.com"
-lat = 1
-long = 1
-
 [stefanv]
 display_name = "Stéfan van der Walt"
 url = "https://github.com/stefanv"
