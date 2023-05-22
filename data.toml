@@ -22,6 +22,12 @@ url = "https://github.com/rossbar"
 lat = 34.138217
 long = -118.125516
 
+[dschult]
+display_name = "Dan Schult"
+url = "https://github.com/dschult"
+lat = 42.82
+long = -75.22
+
 [seberg]
 display_name = "Sebastian Berg"
 url = "https://github.com/seberg"
