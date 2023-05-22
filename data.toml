@@ -27,3 +27,9 @@ display_name = "Dan Schult"
 url = "https://github.com/dschult"
 lat = 42.82
 long = -75.22
+
+[seberg]
+display_name = "Sebastian Berg"
+url = "https://github.com/seberg"
+lat = 54.15696416115438
+long = 10.413883392149868
