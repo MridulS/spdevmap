@@ -33,3 +33,9 @@ display_name = "Sebastian Berg"
 url = "https://github.com/seberg"
 lat = 54.15696416115438
 long = 10.413883392149868
+
+[bsipocz]
+display_name = "Brigitta Sipőcz"
+url = "https://github.com/bsipocz"
+lat = 47.6062
+lon = -122.3321
