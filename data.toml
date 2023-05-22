@@ -39,3 +39,9 @@ display_name = "Martin Fleischmann"
 url = "https://github.com/martinfleis"
 lat = 50.0831
 long = 14.4326
+
+[bsipocz]
+display_name = "Brigitta Sipőcz"
+url = "https://github.com/bsipocz"
+lat = 47.6062
+lon = -122.3321
