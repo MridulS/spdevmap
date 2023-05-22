@@ -21,3 +21,9 @@ display_name = "Ross Barnowski"
 url = "https://github.com/rossbar"
 lat = 34.138217
 long = -118.125516
+
+[seberg]
+display_name = "Sebastian Berg"
+url = "https://github.com/seberg"
+lat = 54.15696416115438
+long = 10.413883392149868
